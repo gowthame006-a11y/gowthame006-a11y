@@ -36,7 +36,7 @@ My project interests span AI agents, data-driven applications, interactive mappi
 | :--- | :--- | :--- |
 | **[PURSUIT AI 2.0](https://github.com/gowthame006-a11y/pursuit-ai-2)** | Interactive mapping, routing and vehicle simulation | Source upload pending |
 | **[PSYNEURA AGI / Synthetic Superego AGI](https://github.com/gowthame006-a11y/SSAGI-V2.0)** | Multi-agent AI governance and decision analysis | Project archive available |
-| **[Jarvis + God's Eye](https://github.com/gowthame006-a11y/jarvis-gods-eye)** | Offline command assistant, tasks and synthetic vehicle simulation | Source available |
+| **[Mr. Pointer](https://github.com/gowthame006-a11y/jarvis-gods-eye)** | Offline command assistant, tasks and synthetic vehicle simulation | Source available |
 | **[Leave Management System](https://github.com/gowthame006-a11y/leave-management-system)** | Employee leave requests, manager approvals and SQLite storage | Source available |
 | **[MetaTagger AI](https://github.com/gowthame006-a11y/metatagger-ai)** | Automated content tagging | Source available |
 | **[BasketIQ / SmartCart AI Pro](https://github.com/gowthame006-a11y/basket-iq)** | Purchase behavior and association rule analysis | Project archive available |
